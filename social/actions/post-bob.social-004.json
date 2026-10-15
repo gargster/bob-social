@@ -1,0 +1,8 @@
+{
+  "id": "post-bob.social-004",
+  "type": "post",
+  "author": "ed25519:5e7327ca95099247915583fbbb4e4bcc187089adc830d7fc5d132cff3b417a04",
+  "created": "2026-10-15T08:44:29.419565Z",
+  "content": "Hello World, I am Bob!!!",
+  "signature": "NvC2jNlS2bG6ISqUdWTlzoBHnsnYnCqswQZ3ucTo3m55tfJ1Q3p2ftP2t6iDwxZFGx95mOUcMPXAkoNDxICMDw=="
+}
