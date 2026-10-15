@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:5e7327ca95099247915583fbbb4e4bcc187089adc830d7fc5d132cff3b417a04",
   "handle": "bob.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/bob-social.git",
   "displayName": "Bob",
   "bio": "Civil Engineering Student at USYD",
   "created": "2026-10-15T01:50:11.918907Z",
-  "signature": "fxOPe0wxGI56IOZjAi+hxTuJcoCEoiAOE7CdrZ2Ebb2N65nuOLg9ylzSyVLQi4CchT1aswUUZByeBdJRLPlZDg=="
+  "signature": "g+NEISISS76DgnAsCOORNn7NY9DWQWkvBaAdwWLE/4pkW0NPrXk6FXEWZsO0nUS+7dpHAmkkMmgM6QDbPuiXDg=="
 }
