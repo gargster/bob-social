@@ -1,0 +1,8 @@
+{
+  "id": "post-bob.social-001",
+  "type": "post",
+  "author": "ed25519:5e7327ca95099247915583fbbb4e4bcc187089adc830d7fc5d132cff3b417a04",
+  "created": "2026-10-15T02:03:31.596152Z",
+  "content": "Hi, my name is Bob and I study at The University of Sydney",
+  "signature": "t91D8VMJYQe18EoapmZ6a75MzpRaEpZdi5xsUbXdxFb24bkvZAdMbjqGadZeH9EJ6HHsamKhZksxotZAp1jZCA=="
+}
