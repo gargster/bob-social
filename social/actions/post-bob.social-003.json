@@ -3,6 +3,6 @@
   "type": "post",
   "author": "ed25519:5e7327ca95099247915583fbbb4e4bcc187089adc830d7fc5d132cff3b417a04",
   "created": "2026-10-15T05:55:41.326185Z",
-  "content": "Hello world",
+  "content": "Hello world, I changed this",
   "signature": "z84jZUS98nHp2fe8TPdjzUQt098Irdbl2n8hd3CXAmzav0w9jqpkGAmrA3kIhyWXUXiops+W6+xUd02PpVMcCw=="
 }
