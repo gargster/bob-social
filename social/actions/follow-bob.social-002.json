@@ -1,0 +1,8 @@
+{
+  "id": "follow-bob.social-002",
+  "type": "follow",
+  "author": "ed25519:5e7327ca95099247915583fbbb4e4bcc187089adc830d7fc5d132cff3b417a04",
+  "created": "2026-10-15T04:46:09.343579Z",
+  "target": "ed25519:10545b4c9d9e27e255ef570b3cafabc3d1ae39ece5dd72d8f75e44cc1dff453f",
+  "signature": "0ySOpL17Qjh3wF/jsmPh0n8SphV+zvwMmgvdJePkyia/oXktMrqcQ5DuH/sfrNkUWXztZPKNunNMKQXIRHdtBA=="
+}
